@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Hello IOS!"; ObjectID = "9d7-ax-0I3"; */
+"9d7-ax-0I3.text" = "Hello IOS!";
+
+/* Class = "UIButton"; configuration.title = "Click me"; ObjectID = "E4z-50-7eu"; */
+"E4z-50-7eu.configuration.title" = "Click me";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "E4z-50-7eu"; */
+"E4z-50-7eu.normalTitle" = "Button";
